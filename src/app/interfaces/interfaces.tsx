@@ -7,7 +7,8 @@ export interface IUsers {
 export interface IPosts{
     title: string,
     description: string,
-    user_id: number
+    user_id: number,
+    id?: number,
   };
 
 export interface ILikes {

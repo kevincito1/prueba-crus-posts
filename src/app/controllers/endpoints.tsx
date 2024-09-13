@@ -1,6 +1,6 @@
 export const users = "https://simuate-test-backend-1.onrender.com/api/users";
 
-export const posts = "https://simuate-test-backend-1.onrender.com/api/posts";
+export const postsURL = "https://simuate-test-backend-1.onrender.com/api/posts";
 
 export const likes = "https://simuate-test-backend-1.onrender.com/api/likes";
 
